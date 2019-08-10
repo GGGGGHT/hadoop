@@ -1,0 +1,5 @@
+com\ggggght\hadoop\wordcount\Hdfs.class
+com\ggggght\hadoop\wordcount\WCRunner.class
+com\ggggght\hadoop\wordcount\WcMapper.class
+com\ggggght\hadoop\wordcount\WcReduce.class
+com\ggggght\hadoop\wordcount\WordCount.class
